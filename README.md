@@ -10,7 +10,7 @@ Puedes ver la grabación de ejemplo uno en el siguiente enlace:
 
 ### Grabación Ejercicio Uno
 
-[Descargar Grabación Ejercicio Uno](https://github.com/JerssonF/MICROCONTROLADORES/raw/main/Videos/Grabación%20Ejercicio%20Uno%202025-02-06%202021.mp4)
+[Descargar Grabación Ejercicio Uno](https://github.com/JerssonF/Micorocontroladores/raw/main/Videos/Grabación%20Ejercicio%20Uno%202025-02-06%202021.mp4)
 
 ### Grabación Ejercicio Dos
 
