@@ -1,7 +1,7 @@
-# Microcontroladores  <img src="image-2.png" alt="alt text" width="50"/>
-
-
-
+<h1>
+  Microcontroladores
+  <img src="image-2.png" alt="alt text" width="30" style="vertical-align: middle; margin-left: 10px;"/>
+</h1>
 
 ![Docente](https://img.shields.io/badge/Docente-Julian_Rene_Chaux_Cedeno-FFD700.svg?style=for-the-badge&logo=Docente&logoColor=white)
 
