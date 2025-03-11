@@ -8,7 +8,7 @@ En este espacio encontrarán trabajos, ejercicios y repositorios realizados dura
 ### Grabación Ejercicio Uno
 Puedes ver la grabación de ejemplo uno en el siguiente enlace:
 
-[Ver Grabación Ejercicio Uno](Videos/Grabación_Ejemplo_Uno%202025-02-06%2021.mp4)
+[Ver Grabación Ejercicio Uno](https://github.com/JerssonF/MICROCONTROLADORES/raw/main/Videos/Grabación_Ejemplo_Uno%202025-02-06%2021.mp4)
 
 ### Grabación Ejercicio Dos
 Puedes ver la grabación del 2025-02-13 en el siguiente enlace:
